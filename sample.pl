@@ -10,4 +10,4 @@ print "野菜、オリーブオイル＆塩\n";
 print "カレー\n";
 
 print "そしてsshでやってみる！\n";
-print "もっかい確認！\n";
+print "どうかなー\n";
