@@ -9,4 +9,4 @@ print "ほうれん草とベーコン\n";
 print "野菜、オリーブオイル＆塩\n";
 print "カレー\n";
 
-print "そしてsshでやってみる\n";
+print "そしてsshでやってみる！\n";
